@@ -132,18 +132,7 @@ The frontend will run on `http://localhost:5173`
 
 ## Future Enhancements
 
-We're planning to transform this into a multi-city digital library management system across India. The vision is to connect libraries in different cities so people can access books from anywhere, making public library resources more accessible and easier to manage.
-
-Here's what we're working towards:
-
-- Multi-city library network where users can browse and borrow books from any participating library
-- Simple, intuitive interface for the public to search, reserve, and manage their borrowed books
-- Inter-library book transfers to share resources efficiently between cities
-- User accounts with reading history and personalized recommendations
-- Administrative tools for librarians including inventory tracking, member management, and analytics
-- Modern features like mobile apps, QR code checkout, and automated notifications
-
-The idea is to make library resources available to more people across India while making day-to-day management smoother for library staff.
+This project will evolve into a multi-city digital library management system across India, connecting libraries to make books accessible to the public from anywhere while simplifying management for library staff.
 
 ## Contributing
 
@@ -155,23 +144,6 @@ Contributions are welcome! If you'd like to help improve this project:
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Open a Pull Request
 
-## Development Roadmap
-
-- [x] Phase 1: Core book management (Current)
-- [ ] Phase 2: User authentication and member profiles
-- [ ] Phase 3: Multi-library and multi-city support
-- [ ] Phase 4: Public reservation and borrowing system
-- [ ] Phase 5: Administrative dashboard and analytics
-- [ ] Phase 6: Mobile application and advanced features
-
 ## License
 
 ISC
-
-## Support
-
-If you run into any issues or have questions, feel free to open an issue in the repository.
-
----
-
-**Note**: This project is under active development. The multi-city features are being implemented in phases to ensure robust, scalable, and user-friendly operation across India's diverse library network.
